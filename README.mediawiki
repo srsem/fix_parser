@@ -1,5 +1,7 @@
 ==FIX protocol parser (beta)==
 
+This is a fork of [[https://github.com/OpenTrading/fix_parser|https://github.com/OpenTrading/fix_parser]]
+
 This is an implementation of [[http://www.fixprotocol.org|FIX protocol]] parser for parsing/constructing FIX messages.
 The main reason to implement another one FIX parser is a performance issue of well
 known open-source FIX parser [[http://quickfixengine.org/|quickFIX]]
